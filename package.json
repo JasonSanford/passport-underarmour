@@ -1,6 +1,6 @@
 {
     "name": "passport-mapmyfitness",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Map my api authentication strategy for Passport.",
     "keywords": [
         "passport",
