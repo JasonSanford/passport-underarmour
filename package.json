@@ -1,6 +1,6 @@
 {
   "name": "passport-underarmour",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Under Armour authentication strategy for Passport.",
   "keywords": [
     "passport",
